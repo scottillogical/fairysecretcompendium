@@ -33,7 +33,7 @@ The Boston Casque was found by Jason Krupat in 2018 near home plate, at the midd
 | <img src="/uploads/august/pops.png" width=200 > | Boston Pops | JJP On EU
 | <img src="/uploads/august/bostonupdated.jpg" width=700 /> | BOSTON | JJP on EU
 | <img src="/uploads/august/columbus.jpg" /> | Columbus looks like a match to some but JJP commented saying he used a model on The Secret Podcast | [youtube The Secret](https://youtu.be/taEKPdeFvzU?si=mIAONLrazZLXpFbd&t=1304)
-| <img src="/uploads/august/porthole.jpg" /> | The large circular window in the image is mean to represent a porthole on a ship like the USS constition, though the actual constitituion doesn't really have portholes, though it does have [hawse holes](https://ussconstitutionmuseum.org/2017/06/12/hawse-pipes/)| [youtube The Secret](https://youtu.be/taEKPdeFvzU?si=mIAONLrazZLXpFbd&t=1304)
+| <img src="/uploads/august/porthole.jpg" /> | The large circular window in the image is mean to represent a porthole on a ship like the USS constition, though the actual constitution doesn't really have portholes, though it does have [hawse holes](https://ussconstitutionmuseum.org/2017/06/12/hawse-pipes/)| [youtube The Secret](https://youtu.be/taEKPdeFvzU?si=mIAONLrazZLXpFbd&t=1304)
 | <img src="/uploads/august/flags.jpg" /> | <img src="/uploads/august/ironsides.jpg" /> | Confirmed by JJP on EU. <br /> [USS Consitition Museum Signal Flag Chart](https://ussconstitutionmuseum.org/wp-content/uploads/2018/09/signal-flag-chart.pdf)
 | <img src="/uploads/august/warfs.png" /> | North end warfs | JJP
 | <img src="/uploads/august/homeplate.jpg" /> | Home plate "feel at home"<br /> The casque was buried under or near home plate | JJP
