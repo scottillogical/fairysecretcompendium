@@ -14,7 +14,7 @@ TODO
 
 
 # Painting
-<img src="/uploads/january/Image3.png" title="Medieval Scarecrow"  />
+<img src="/uploads/january/Image3.jpg" title="Medieval Scarecrow"  />
 
 
 # Image matches

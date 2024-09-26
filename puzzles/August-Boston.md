@@ -16,7 +16,7 @@ The Boston Casque was found by Jason Krupat in 2018 near home plate, at the midd
 
 
 # Painting
-<img src="/uploads/august/Image11.png" title="Salem Witch"  />
+<img src="/uploads/august/Image11.jpg" title="Salem Witch"  />
 
 
 # Image matches
