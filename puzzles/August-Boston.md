@@ -54,7 +54,9 @@ The Boston Casque was found by Jason Krupat in 2018 near home plate, at the midd
 | Feel at home | Feel for the treasure under home plate | Confirmed by find
 | All the letters<br> Are here to see | Signal flags on USS constitution? | Speculation
 | Eighteenth day <br/>Twelfth hour<br /> Lit by lamplight | References to Paul Reverse Ride
-| In truth, be free. | Could be a refence to the [famous Saco & Vanzetti trial](https://en.wikipedia.org/wiki/Sacco_and_Vanzetti) langone was related to<br> [John 8:32](https://en.wikipedia.org/wiki/The_truth_will_set_you_free).<br> reference to the image, pandora freeing the faires from | Speculative
+| In truth, be free. | This line is a mystery. Theories include <br/>* It could be a reference to the image, which depicts Pandora freeing a fairy from Pandoras box <br /> [famous Saco & Vanzetti trial](https://en.wikipedia.org/wiki/Sacco_and_Vanzetti) langone was related to<br> * [John 8:32 "The truth will set you free"](https://en.wikipedia.org/wiki/The_truth_will_set_you_free).<br> | Speculation
+| <ul><li>item1</li><li>item2</li></ul>
+| - item1<br/> - item2<br/> - item3 
 
 # Japanese Hint
 
