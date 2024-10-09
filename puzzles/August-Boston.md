@@ -48,12 +48,12 @@ The Boston Casque was found by Jason Krupat in 2018 near home plate, at the midd
 | In the area of his direction | To the North End | JK on EU
 | A green tower of lights | Tobin Bridge | Krupat on EU |
 | <br> In the middle section | In the middle of 3 ballfields | Krupat on EU
-| Near those<br>Who pass the coliseum<br> With with walls| Near [Copps Hill Burying Ground](https://en.wikipedia.org/wiki/Copp%27s_Hill_Burying_Ground) and the [ice rink](https://www.mass.gov/locations/dcr-steriti-memorial-rink) (coliseum) </br >Metal walls could be a reference the nickname of the USS consitution across the harbor's "Iron Sides" nickname.
+| Near those<br>Who pass the coliseum<br> With with walls| Near [Copps Hill Burying Ground](https://en.wikipedia.org/wiki/Copp%27s_Hill_Burying_Ground) and the [ice rink](https://www.mass.gov/locations/dcr-steriti-memorial-rink) (coliseum) <br>Metal walls could be a reference the nickname of the USS consitution across the harbor's "Iron Sides" nickname.
 | Face the water | Face the Boston Harbor
 | Your back to the stairs | Your back to [Copps Hill Terrace ](https://en.wikipedia.org/wiki/Copp%27s_Hill_Terrace#cite_note-MACRIS-2) stairs | Unconfirmed
 | Feel at home | Feel for the treasure under home plate | Confirmed by find
 | All the letters<br> Are here to see | Signal flags on USS constitution? | Speculation
-| Eighteenth day <br/>Twelfth hour<br /> Lit by lamplight | References to Paul Reverse Ride
+| Eighteenth day <br>Twelfth hour<br> Lit by lamplight | References to Paul Reverse Ride
 | In truth, be free. | This line is a mystery. Theories include <br> -  It could be a reference to the image, which depicts Pandora freeing a fairy from Pandoras box <br>  - [famous Saco & Vanzetti trial](https://en.wikipedia.org/wiki/Sacco_and_Vanzetti)<br> - [John 8:32 "The truth will set you free"](https://en.wikipedia.org/wiki/The_truth_will_set_you_free).<br> | Speculation
 
 
