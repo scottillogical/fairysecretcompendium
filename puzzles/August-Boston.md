@@ -37,6 +37,7 @@ The Boston Casque was found by Jason Krupat in 2018 near home plate, at the midd
 | <img src="/uploads/august/flags.jpg" /> | <img src="/uploads/august/ironsides.jpg" /> | Confirmed by JJP on EU. <br /> [USS Consitition Museum Signal Flag Chart](https://ussconstitutionmuseum.org/wp-content/uploads/2018/09/signal-flag-chart.pdf)
 | <img src="/uploads/august/warfs.png" /> | North end warfs | JJP
 | <img src="/uploads/august/homeplate.jpg" /> | Home plate "feel at home"<br /> The casque was buried under or near home plate | JJP
+| [[/uploads/Boston Clover.jpeg]] | 4 leaf clover - Boston Celtics? | Speculation
 
 
 # Verse Matches
