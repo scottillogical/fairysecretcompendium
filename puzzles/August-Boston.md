@@ -31,7 +31,7 @@ The Boston Casque was found by Jason Krupat in 2018 near home plate, at the midd
 | <img src="/uploads/august/witch.png" width=300 /> | The figure depicted is a witch (a nod to to the Salem Witch Trials) <br> Her hair is shaped like a baseball diamond <br> She seems to be opening Pandora's box  | JJP on EU
 | <img src="/uploads/august/bostonglobe.png" width=180 /> | Boston globe  | John Judge Palencar on Expedition Unknown
 | <img src="/uploads/august/pops.png" width=200 > | Boston Pops | JJP On EU
-| <img src="/uploads/august/bostonupdated.jpg" width=700 /> | BOSTON | JJP on EU
+| <img src="/uploads/august/bostonupdated.jpg" width=700 /> | BOSTON<br> S also stood for Salem Witch | JJP [ 12Treasures interview](https://youtu.be/taEKPdeFvzU?si=PWQNUGOuHyrvk941&t=534) and EU|
 | <img src="/uploads/august/columbus.jpg" /> | Columbus looks like a match to some but JJP commented saying he used a model on The Secret Podcast | [youtube The Secret](https://youtu.be/taEKPdeFvzU?si=mIAONLrazZLXpFbd&t=1304)
 | <img src="/uploads/august/porthole.jpg" /> | The large circular window in the image is mean to represent a porthole on a ship like the USS constition, though the actual constitution doesn't really have portholes, though it does have [hawse holes](https://ussconstitutionmuseum.org/2017/06/12/hawse-pipes/)| [youtube The Secret](https://youtu.be/taEKPdeFvzU?si=mIAONLrazZLXpFbd&t=1304)
 | <img src="/uploads/august/flags.jpg" /> | <img src="/uploads/august/ironsides.jpg" /> | Confirmed by JJP on EU. <br /> [USS Consitition Museum Signal Flag Chart](https://ussconstitutionmuseum.org/wp-content/uploads/2018/09/signal-flag-chart.pdf)
