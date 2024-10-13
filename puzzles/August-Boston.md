@@ -2,9 +2,9 @@
 title: August Puzzle - Boston, MA. The Secret a Treasure Hunt
 ---
 
-| Month | Verse | Painting | City  | Jewel | Flower  | Status | Immigration Group | Title
+| Month | Verse | Painting | City  | Jewel | Flower  | Status | Immigration Group
 |---------------|-------------|
-| August | 3 |11| Boston, MA  |  Peridot | Gadiolus  | Found | Italy | Salem Witch
+| August | 3 |11| Boston, MA  |  Peridot | Gadiolus  | Found | Italy
 
 [[_TOC_]]
 
