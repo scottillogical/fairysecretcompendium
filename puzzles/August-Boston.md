@@ -53,8 +53,8 @@ The Boston Casque was found by Jason Krupat in 2018 near home plate, at the midd
 | Face the water | Face the Boston Harbor
 | Your back to the stairs | Your back to [Copps Hill Terrace ](https://en.wikipedia.org/wiki/Copp%27s_Hill_Terrace#cite_note-MACRIS-2) stairs | Unconfirmed
 | Feel at home | Feel for the treasure under home plate | Confirmed by find
-| All the letters<br> Are here to see | Signal flags on USS constitution? | Speculation
-| Eighteenth day <br>Twelfth hour<br> Lit by lamplight | References to Paul Reverse Ride
+| All the letters<br> Are here to see | This line is a mystery <br> It may refer signal flags on USS constitution | Speculation
+| Eighteenth day <br>Twelfth hour<br> Lit by lamplight | These lines mostly likely reference [Paul Revere's Ride](https://en.wikipedia.org/wiki/Paul_Revere%27s_Ride) by Henry Wadsworth Longfellow | Very likely
 | In truth, be free. | This line is a mystery. Theories include <br> -  It could be a reference to the image, which depicts Pandora freeing a fairy from Pandoras box <br>  - [famous Saco & Vanzetti trial](https://en.wikipedia.org/wiki/Sacco_and_Vanzetti)<br> - [John 8:32 "The truth will set you free"](https://en.wikipedia.org/wiki/The_truth_will_set_you_free).<br> | Speculation
 
 
