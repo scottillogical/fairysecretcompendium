@@ -16,6 +16,10 @@ TODO
 # Painting
 <img src="/uploads/january/Image3.jpg" title="Medieval Scarecrow"  />
 
+## Below is a high res image [posted by the Gift Giver](https://www.facebook.com/photo/?fbid=106894378519864&set=a.106893491853286) who has been confirmed by George Ward of 12treaures to be a "Person in the know" aka one of the people who worked on The Secret
+
+<img src="/uploads/january/Image3HighRes.jpg" title="Medieval Scarecrow"  />
+
 
 # Image matches
 
