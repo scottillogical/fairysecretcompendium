@@ -4,12 +4,18 @@ title: Roanoke, NC Puzzle - The Secret a Treasure Hunt
 
 | Month | Verse | Painting | City  | Jewel | Flower  | Status | Immigration Group | Title
 |---------------|-------------|
-| [January](http://quest4treasure.co.uk/phpbb3/viewtopic.php?f=32&t=771) | 11 |3| Roanoke Island |  Garnet | White Carnation  | Unsolved | England | Medievil Scarecrow
+| [January](http://quest4treasure.co.uk/phpbb3/viewtopic.php?f=32&t=771) | 11 |3| Dare County, NC |  Garnet | White Carnation  | Unsolved | England | Medievil Scarecrow
 
 [[_TOC_]]
 
 # Summary
-The hunt for the Roanoke Island Casque is focused on Dare County, NC. 
+The hunt for the Roanoke Island Casque has been focused on Dare County, NC. 
+
+Many matches have been found to likely reference the Elizabethen Gardens, Fort Raleigh, the Lost Colony Theater, the Virginia Dare memorial,  and the Wright Brothers memorial.
+
+# Recent Developments
+
+* It has been revelated via various sources ([Secret Documentary Trailer](https://youtu.be/Z-GZWpb-ojQ?si=wuScTpIedKC9sAig&t=52), Gift Giver [Facebook](https://www.facebook.com/photo/?fbid=106894378519864&set=a.106893491853286), that the physical painting extends beyond the borders depicted in the book.   See the section on Gift Giver on this page for more details
 
 
 # Map
