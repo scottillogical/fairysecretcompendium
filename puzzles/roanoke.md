@@ -39,8 +39,8 @@ TODO
 
 # Verse Matches
 
-| Verse | Clue | Source
-|-------|-------|-------|----------------
+| Verse | Clue | Notes
+|-------|-------|-------
 | Pass two friends of octave
 | In December
 | Ride the man of oz
