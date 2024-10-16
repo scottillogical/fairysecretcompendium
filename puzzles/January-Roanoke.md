@@ -21,9 +21,10 @@ TODO
 
 # Image matches
 
-| Painting | Clue | Source
+| Painting | Clue
 |---------------|-------------|
-|something
+| [[/uploads/roanokepainting.jpg]]|[[/uploads/roanokemap.jpg]]
+
 
 
 # Verse Matches
