@@ -2,9 +2,9 @@
 title: Roanoke, NC Puzzle - The Secret a Treasure Hunt
 ---
 
-| Month | Verse | Painting | City  | Jewel | Flower  | Status | Immigration Group | Title
+| Month | Verse | Painting | City  | Jewel | Flower  | Immigration Group | Title | Status
 |---------------|-------------|
-| [January](http://quest4treasure.co.uk/phpbb3/viewtopic.php?f=32&t=771) | 11 |3| Dare County, NC |  Garnet | White Carnation  | Unsolved | England | Medievil Scarecrow
+| [January](http://quest4treasure.co.uk/phpbb3/viewtopic.php?f=32&t=771) | 11 |3| Dare County, NC |  Garnet | White Carnation  | England | Medievil Scarecrow | Unfound
 
 [[_TOC_]]
 
@@ -15,7 +15,8 @@ Many matches have been found to likely reference the Elizabethen Gardens, Fort R
 
 # Recent Developments
 
-* It has been revelated via various sources ([Secret Documentary Trailer](https://youtu.be/Z-GZWpb-ojQ?si=wuScTpIedKC9sAig&t=52), Gift Giver [Facebook](https://www.facebook.com/photo/?fbid=106894378519864&set=a.106893491853286), that the physical painting extends beyond the borders depicted in the book.   See [Gift Giver - High Resolution Image of Painting 3](#high-resolution-image-of-painting-3)
+* Through various sources it has been revealed ([Secret Documentary Trailer](https://youtu.be/Z-GZWpb-ojQ?si=wuScTpIedKC9sAig&t=52), Gift Giver [Facebook](https://www.facebook.com/photo/?fbid=106894378519864&set=a.106893491853286), that the physical painting extends beyond the borders depicted in the book.  
+* The [Gift Giver](#gift-giver) has also posted multiple times referring to the Roanoke painting, see [#gift-giver](#gift-giver) for details
 
 
 # Map
