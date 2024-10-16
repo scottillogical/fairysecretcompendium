@@ -1,5 +1,5 @@
 ---
-title: January Puzzle - Roanoke, NC. The Secret a Treasure Hunt
+title: Roanoke, NC Puzzle - The Secret a Treasure Hunt
 ---
 
 | Month | Verse | Painting | City  | Jewel | Flower  | Status | Immigration Group | Title
