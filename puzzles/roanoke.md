@@ -15,7 +15,7 @@ Many matches have been found to likely reference the Elizabethen Gardens, Fort R
 
 # Recent Developments
 
-* It has been revelated via various sources ([Secret Documentary Trailer](https://youtu.be/Z-GZWpb-ojQ?si=wuScTpIedKC9sAig&t=52), Gift Giver [Facebook](https://www.facebook.com/photo/?fbid=106894378519864&set=a.106893491853286), that the physical painting extends beyond the borders depicted in the book.   See the section on Gift Giver on this page for more details
+* It has been revelated via various sources ([Secret Documentary Trailer](https://youtu.be/Z-GZWpb-ojQ?si=wuScTpIedKC9sAig&t=52), Gift Giver [Facebook](https://www.facebook.com/photo/?fbid=106894378519864&set=a.106893491853286), that the physical painting extends beyond the borders depicted in the book.   See [Gift Giver - High Resolution Image of Painting 3](#high-resolution-image-of-painting-3)
 
 
 # Map
