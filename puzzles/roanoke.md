@@ -72,7 +72,7 @@ TODO
 
 Source: [http://quest4treasure.co.uk/phpbb3/viewtopic.php?f=32&t=8158&p=15531](q4t user phrabbot) & [12 Treasures](https://12treasures.com/japanese-edition/) [The Secret Podcast](https://www.youtube.com/watch?v=Dg1T8tO9EC0)
 
-# Gift Giver posts
+# Gift Giver
 
 The Gift Giver is a [facebook account](https://www.facebook.com/groups/1669016820051443/user/100075979067549/) [confirmed](https://www.facebook.com/groups/1669016820051443/?multi_permalinks=3427051740914600&hoisted_section_header_type=recently_seen&__cft__[0]=AZW-chMstGU5Jp5DrRYGZQ4VeoLC8ILzoPiN3cze2LxkkWuieQlIVJ3llgRf1eXI0tjWIW7fn1tBEByn7Iz0pW-wuzmQ8tuedkH79wOe4I2kDix7-Qo2WZ70ZV-_x4HA_N8xsUDTlWpbdFAAyGnH9dKqCzpkxF20UQPA67cM4B8rKUnawRadm4jcYHmMHiWcoI8&__tn__=%2CO%2CP-R) by George Ward of 12Treaures to be someone who was involved in the creation of the book
 
