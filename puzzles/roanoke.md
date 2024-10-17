@@ -31,7 +31,7 @@ TODO
 | Painting | Clue
 |---------------|-------------|
 | [[/uploads/roanokepainting.jpg]]|<img src="/uploads/roanokemap.jpg" width=200 /> 
-| [[/uploads/january/35.jpeg]][[/uploads/january/75.jpeg]]|The latitude of Dare County is
+| <img src="/uploads/january/36.jpeg" width=200 /> <img src="/uploads/january/75.jpeg" width=200 /> | The lat/lng of Dare County is 35/72 
 
 # Verse Matches
 
