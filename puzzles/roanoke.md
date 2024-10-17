@@ -26,16 +26,11 @@ TODO
 # Painting
 <img src="/uploads/january/Image3.jpg" title="Medieval Scarecrow"  />
 
-
-
-
 # Image matches
 
 | Painting | Clue
 |---------------|-------------|
 | [[/uploads/roanokepainting.jpg]]|[[/uploads/roanokemap.jpg]]
-
-
 
 # Verse Matches
 
