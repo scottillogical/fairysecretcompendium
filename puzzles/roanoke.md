@@ -30,7 +30,7 @@ TODO
 
 | Painting | Clue
 |---------------|-------------|
-| [[/uploads/roanokepainting.jpg]]|[[/uploads/roanokemap.jpg]]
+| [[/uploads/roanokepainting.jpg]]|<img src="/uploads/roanokemap.jpg" width=200 /> 
 
 # Verse Matches
 
