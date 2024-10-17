@@ -70,7 +70,7 @@ TODO
 >Line 18-20: To achieve by dauntless and inconquerable determination.
 >This part is a quote from a book, so let’s look at the dictionary of quotations again.
 
-Source: [http://quest4treasure.co.uk/phpbb3/viewtopic.php?f=32&t=8158&p=15531](q4t user phrabbot) & [12 Treasures](https://12treasures.com/japanese-edition/) [The Secret Podcast](https://www.youtube.com/watch?v=Dg1T8tO9EC0)
+Source: [q4t user phrabbot](http://quest4treasure.co.uk/phpbb3/viewtopic.php?f=32&t=8158&p=15531) 
 
 # Gift Giver
 
