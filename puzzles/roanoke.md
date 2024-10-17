@@ -28,13 +28,11 @@ TODO
 
 # Image matches
 
-| Painting | Clue
+| Clue | Notes
 |---------------|-------------|
-| [[/uploads/roanokepainting.jpg]]|<img src="/uploads/roanokemap.jpg" width=200 />
+| [[/uploads/roanokepainting.jpg]]<img src="/uploads/roanokemap.jpg" width=200 /> | The outline of Roanoke Island next to the window in the image may also be referenced in the verse "land near the window" 
 | <img src="/uploads/january/36.jpeg" width=200 /> <img src="/uploads/january/75.jpeg" width=200 /> | The lat/lng of Dare County is 35/72
 | <img src="/uploads/january/sirwalter.jpeg" width=500 /> | The armor of the figure in the painting may be inspired by Sir Walter Raleigh
-| <a href="#walter" title="walter">walter</a><span id="Y">Y</span> 
-| <h1>test</h1>
 
 # Verse Matches
 
