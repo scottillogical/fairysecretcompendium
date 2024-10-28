@@ -58,9 +58,7 @@ The Boston Casque was found by Jason Krupat in 2018 near home plate, at the midd
 | In truth, be free. | This line is a mystery. Theories include <br> -  It could be a reference to the image, which depicts Pandora freeing a fairy from Pandoras box <br>  - [famous Saco & Vanzetti trial](https://en.wikipedia.org/wiki/Sacco_and_Vanzetti)<br> - [John 8:32 "The truth will set you free"](https://en.wikipedia.org/wiki/The_truth_will_set_you_free).<br> | Speculation
 
 # Pairing verse 3 to painting 11
-Pairing a verse to a painting is more of an art than a science, and often, they are pairied indirectly by pairing each to a suspected casque location.
-
-There is no confirmed or concrete method of matches that pair verse 3 directly to image 11. The painting and image were both individually paired to Boston via clues and the process of elemination.
+There is no confirmed or concrete method of matches that pair verse 3 directly to painting 11. The verse and painting were paired individually to Boston via clues and the process of elemination.
 
 ## How Paiting 11 was paired to Boston 
 * "Boston is at about 42N, 71W.  The 42 is obvious on her left cuff, and the top figure of her "train" (with the triangles, just below her right elbow) is a pretty good 71 when you rotate the book 90 degrees" [credit: Pine_Tree q4t](http://quest4treasure.co.uk/phpbb3/viewtopic.php?f=32&t=774&start=30#p18193) 
