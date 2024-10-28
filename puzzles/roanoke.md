@@ -1,5 +1,5 @@
 ---
-title: Roanoke, NC Puzzle - The Secret a Treasure Hunt
+title: Roanoke, NC Puzzle - The Secret, A Treasure Hunt
 ---
 
 | Month | Verse | Painting | City  | Jewel | Flower  | Immigration Group | Title | Status
@@ -9,13 +9,13 @@ title: Roanoke, NC Puzzle - The Secret a Treasure Hunt
 [[_TOC_]]
 
 # Summary
-The hunt for the Roanoke Island Casque has been focused on Dare County, NC.
+The hunt for the Roanoke Island Casque has been focused on Dare County, NC. 
 
 Many matches have been found to likely reference the Elizabethen Gardens, Fort Raleigh, the Lost Colony Theater, the Virginia Dare memorial,  and the Wright Brothers memorial.
 
 # Recent Developments
 
-* Through various sources it has been revealed ([Secret Documentary Trailer](https://youtu.be/Z-GZWpb-ojQ?si=wuScTpIedKC9sAig&t=52), Gift Giver [Facebook](https://www.facebook.com/photo/?fbid=106894378519864&set=a.106893491853286), that the physical painting extends beyond the borders depicted in the book.
+* Through various sources it has been revealed ([Secret Documentary Trailer](https://youtu.be/Z-GZWpb-ojQ?si=wuScTpIedKC9sAig&t=52), Gift Giver [Facebook](https://www.facebook.com/photo/?fbid=106894378519864&set=a.106893491853286), that the physical painting extends beyond the borders depicted in the book.  
 * The [Gift Giver](#gift-giver) has also posted multiple times referring to the Roanoke painting, see [#gift-giver](#gift-giver) for details
 
 
@@ -26,17 +26,19 @@ TODO
 # Painting
 <img src="/uploads/january/Image3.jpg" title="Medieval Scarecrow"  />
 
+
+
+
 # Image matches
 
-| Clue | Notes
+| Painting | Clue
 |---------------|-------------|
-| [[/uploads/roanokepainting.jpg]]<img src="/uploads/roanokemap.jpg" width=200 /> | The outline of Roanoke Island next to the window in the image may also be referenced in the verse "land near the window" 
-| <img src="/uploads/january/36.jpeg" width=200 /> <img src="/uploads/january/75.jpeg" width=200 /> | The lat/lng of Dare County is 35/72
-| <img src="/uploads/january/sirwalter.jpeg" width=500 /> | The armor of the figure in the painting may be inspired by Sir Walter Raleigh
+| [[/uploads/roanokepainting.jpg]]|[[/uploads/roanokemap.jpg]]
+
 
 # Verse Matches
 
-| Verse | Clue
+| Verse | Clue 
 |-------|-------
 | Pass two friends of octave | The [Japanese hints](#japanese-hint) imply this is a reference to Octave Chanute and the Wright Brothers
 | In December
@@ -67,9 +69,9 @@ TODO
 >Line 18-20: To achieve by dauntless and inconquerable determination.
 >This part is a quote from a book, so let’s look at the dictionary of quotations again.
 
-Source: [q4t user phrabbot](http://quest4treasure.co.uk/phpbb3/viewtopic.php?f=32&t=8158&p=15531)
+Source: [http://quest4treasure.co.uk/phpbb3/viewtopic.php?f=32&t=8158&p=15531](q4t user phrabbot) & [12 Treasures](https://12treasures.com/japanese-edition/) [The Secret Podcast](https://www.youtube.com/watch?v=Dg1T8tO9EC0)
 
-# Gift Giver
+# Gift Giver posts
 
 The Gift Giver is a [facebook account](https://www.facebook.com/groups/1669016820051443/user/100075979067549/) [confirmed](https://www.facebook.com/groups/1669016820051443/?multi_permalinks=3427051740914600&hoisted_section_header_type=recently_seen&__cft__[0]=AZW-chMstGU5Jp5DrRYGZQ4VeoLC8ILzoPiN3cze2LxkkWuieQlIVJ3llgRf1eXI0tjWIW7fn1tBEByn7Iz0pW-wuzmQ8tuedkH79wOe4I2kDix7-Qo2WZ70ZV-_x4HA_N8xsUDTlWpbdFAAyGnH9dKqCzpkxF20UQPA67cM4B8rKUnawRadm4jcYHmMHiWcoI8&__tn__=%2CO%2CP-R) by George Ward of 12Treaures to be someone who was involved in the creation of the book
 
@@ -89,13 +91,13 @@ Is anyone?
 I don't remember exactly what John and Byron were going for. Maybe you can help fill in the blanks.
 Merry Christmas, see you next year.
 
-### [The casque is located in Dare County](https://www.facebook.com/groups/thesecrettreasures/posts/3422689871350787/?__cft__%5B0%5D=AZWsflEFXzN-tODXsTqfaL8wbOW98D9HLq6ILTaa-wMeXy9kboSMRA_Z-GU9piQijsHzJlLlwblxJA_q4iYEB5YrQIVqUBfzcVk0NGifMNKp8KmvU7DowyIbLsB4pkMB0-9ExDG2tueqO3Em1OWy5159zhqrE-E1a2CuG0lM3GXufg&__tn__=%252CO%252CP-R)
-A post by Gift Giver that confirms the puzzle cities mentions Dare County, NC.
+### [The casque is located in Dare County](https://www.facebook.com/groups/thesecrettreasures/posts/3422689871350787/?__cft__%5B0%5D=AZWsflEFXzN-tODXsTqfaL8wbOW98D9HLq6ILTaa-wMeXy9kboSMRA_Z-GU9piQijsHzJlLlwblxJA_q4iYEB5YrQIVqUBfzcVk0NGifMNKp8KmvU7DowyIbLsB4pkMB0-9ExDG2tueqO3Em1OWy5159zhqrE-E1a2CuG0lM3GXufg&__tn__=%252CO%252CP-R))
+A post by Gift Giver that confirms the puzzle cities mentions Dare County, NC. 
 
 ### [The spoon depicts a pea](https://www.facebook.com/groups/thesecrettreasures/posts/3422689871350787/?__cft__%5B0%5D=AZWsflEFXzN-tODXsTqfaL8wbOW98D9HLq6ILTaa-wMeXy9kboSMRA_Z-GU9piQijsHzJlLlwblxJA_q4iYEB5YrQIVqUBfzcVk0NGifMNKp8KmvU7DowyIbLsB4pkMB0-9ExDG2tueqO3Em1OWy5159zhqrE-E1a2CuG0lM3GXufg&__tn__=%252CO%252CP-R)
 
 
 ### [High resolution image with expanded margins](https://www.facebook.com/photo/?fbid=106894378519864&set=a.106893491853286)
-The Gift Giver's account also includes a photo of Image 3 that is unusual in that it includes the border of the painting that was cropped out of the book.  We already know from JJP interviews that the Roanoke painting extends beyond the border shown cropped in the book, but this image is a unique.
+The Gift Giver's account also includes a photo of Image 3 that is unusual in that it includes the border of the painting that was cropped out of the book.  We already know from JJP interviews that the Roanoke painting extends beyond the border shown cropped in the book, but this image is a unique. 
 
 <img src="/uploads/january/Image3HighRes.jpg" title="Medieval Scarecrow"  />
