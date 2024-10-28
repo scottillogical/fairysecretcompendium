@@ -57,7 +57,19 @@ The Boston Casque was found by Jason Krupat in 2018 near home plate, at the midd
 | Eighteenth day <br>Twelfth hour<br> Lit by lamplight | These lines mostly likely reference [Paul Revere's Ride](https://en.wikipedia.org/wiki/Paul_Revere%27s_Ride) by Henry Wadsworth Longfellow | Very likely
 | In truth, be free. | This line is a mystery. Theories include <br> -  It could be a reference to the image, which depicts Pandora freeing a fairy from Pandoras box <br>  - [famous Saco & Vanzetti trial](https://en.wikipedia.org/wiki/Sacco_and_Vanzetti)<br> - [John 8:32 "The truth will set you free"](https://en.wikipedia.org/wiki/The_truth_will_set_you_free).<br> | Speculation
 
+# Pairing verse 3 to painting 11
+Pairing a verse to a painting is more of an art than a science, and often, they are pairied indirectly by pairing each to a suspected casque location.
 
+There is no confirmed or concrete method of matches that pair verse 3 directly to image 11. The painting and image were both individually paired to Boston via clues and the process of elemination.
+
+## How Paiting 11 was paired to Boston 
+* "Boston is at about 42N, 71W.  The 42 is obvious on her left cuff, and the top figure of her "train" (with the triangles, just below her right elbow) is a pretty good 71 when you rotate the book 90 degrees" [credit: Pine_Tree q4t](http://quest4treasure.co.uk/phpbb3/viewtopic.php?f=32&t=774&start=30#p18193) 
+* Lots of globes in the picture, which may be a reference to the Boston Globe.  A newspaper may be a pretty strong reference point for the authors/illustrators who wrote the book (confirmed by JJP). [credit: Pine_Tree q4t](http://quest4treasure.co.uk/phpbb3/viewtopic.php?f=32&t=774&start=30#p18193) 
+* The Italian theme was identified as fitting for Boston, which has the oldest Italian Section in the country (the North End).  
+
+## How verse 3 was paired to Boston
+* The lines "Eighteenth day / Twelfth hour / Lit by lamplight" were easily recognized as a reference to Paul Reverse's Ride (see Verse Matches)
+* The lines "If Thucydides is / North of Xenophon" was suspected to be a reference to Boston via a Horace Walpole Quote [credit: Robh q4t](http://quest4treasure.co.uk/phpbb3/viewtopic.php?f=32&t=724&p=9091&hilit=boston#p9091)
 
 # Japanese Hint
 
