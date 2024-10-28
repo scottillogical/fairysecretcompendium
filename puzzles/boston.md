@@ -58,12 +58,12 @@ The Boston Casque was found by Jason Krupat in 2018 near home plate, at the midd
 | In truth, be free. | This line is a mystery. Theories include <br> -  It could be a reference to the image, which depicts Pandora freeing a fairy from Pandoras box <br>  - [famous Saco & Vanzetti trial](https://en.wikipedia.org/wiki/Sacco_and_Vanzetti)<br> - [John 8:32 "The truth will set you free"](https://en.wikipedia.org/wiki/The_truth_will_set_you_free).<br> | Speculation
 
 # Pairing verse 3 to painting 11
-There is no confirmed or concrete method of matches that pair verse 3 directly to painting 11. The verse and painting were paired individually to Boston via clues and the process of elemination.
+There is no confirmed or concrete method of matches that pair verse 3 directly to painting 11. The verse and painting were paired individually to Boston via clues and the process of elimination.
 
-## How Paiting 11 was paired to Boston 
-* "Boston is at about 42N, 71W.  The 42 is obvious on her left cuff, and the top figure of her "train" (with the triangles, just below her right elbow) is a pretty good 71 when you rotate the book 90 degrees" [credit: Pine_Tree q4t](http://quest4treasure.co.uk/phpbb3/viewtopic.php?f=32&t=774&start=30#p18193) 
-* Lots of globes in the picture, which may be a reference to the Boston Globe.  A newspaper may be a pretty strong reference point for the authors/illustrators who wrote the book (confirmed by JJP). [credit: Pine_Tree q4t](http://quest4treasure.co.uk/phpbb3/viewtopic.php?f=32&t=774&start=30#p18193) 
-* The Italian theme was identified as fitting for Boston, which has the oldest Italian Section in the country (the North End).  
+## How Paiting 11 was paired to Boston
+* "Boston is at about 42N, 71W.  The 42 is obvious on her left cuff, and the top figure of her "train" (with the triangles, just below her right elbow) is a pretty good 71 when you rotate the book 90 degrees" [credit: Pine_Tree q4t](http://quest4treasure.co.uk/phpbb3/viewtopic.php?f=32&t=774&start=30#p18193)
+* Lots of globes in the picture, which may be a reference to the Boston Globe.  A newspaper may be a pretty strong reference point for the authors/illustrators who wrote the book (confirmed by JJP). [credit: Pine_Tree q4t](http://quest4treasure.co.uk/phpbb3/viewtopic.php?f=32&t=774&start=30#p18193)
+* The Italian theme was identified as fitting for Boston, which has the oldest Italian Section in the country (the North End).
 
 ## How verse 3 was paired to Boston
 * The lines "Eighteenth day / Twelfth hour / Lit by lamplight" were easily recognized as a reference to Paul Reverse's Ride (see Verse Matches)
