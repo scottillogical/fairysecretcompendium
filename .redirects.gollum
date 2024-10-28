@@ -2,3 +2,4 @@
 August.md: August Boston Italian .md
 August Boston Italian .md: August-Boston-Italian .md
 August-Boston-Italian .md: August-Boston-Italian.md
+puzzles/August-Boston.md: puzzles/boston.md.md
