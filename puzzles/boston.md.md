@@ -1,5 +1,5 @@
 ---
-title: August Puzzle - Boston, MA. The Secret a Treasure Hunt
+title: Boston, MA Puzzle - The Secret, A Treasure Hunt
 ---
 
 | Month | Verse | Painting | City  | Jewel | Flower  | Status | Immigration Group
