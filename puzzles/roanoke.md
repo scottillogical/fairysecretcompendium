@@ -11,17 +11,17 @@ title: Roanoke, NC Puzzle - The Secret, A Treasure Hunt
 # Summary
 The hunt for the Roanoke Island Casque has been focused on Dare County, NC. 
 
-Many matches have been found to likely reference the Elizabethen Gardens, Fort Raleigh, the Lost Colony Theater, the Virginia Dare memorial,  and the Wright Brothers memorial.
+Many matches have been found to likely reference the Elizabethen Gardens, Fort Raleigh, the Lost Colony Theater, the Virginia Dare memorial, and the Wright Brothers memorial.
+
+
 
 # Recent Developments
 
 * Through various sources it has been revealed ([Secret Documentary Trailer](https://youtu.be/Z-GZWpb-ojQ?si=wuScTpIedKC9sAig&t=52), Gift Giver [Facebook](https://www.facebook.com/photo/?fbid=106894378519864&set=a.106893491853286), that the physical painting extends beyond the borders depicted in the book.  
 * The [Gift Giver](#gift-giver) has also posted multiple times referring to the Roanoke painting, see [#gift-giver](#gift-giver) for details
 
-
 # Map
 TODO
-
 
 # Painting
 <img src="/uploads/january/Image3.jpg" title="Medieval Scarecrow"  />
@@ -34,7 +34,6 @@ TODO
 | Painting | Clue
 |---------------|-------------|
 | [[/uploads/roanokepainting.jpg]]|<img src="/uploads/roanokemap.jpg" width=300 />
-
 
 # Verse Matches
 
@@ -61,6 +60,19 @@ TODO
 | By dauntless and inconquerable | The [Japanese hints](#japanese-hint) say that this is a quote from a book, but many searchers believe that it is a strong match for the words on the Wright Brothers Memorial
 | Determination
 | Your goal.
+
+# Verse and Image Pairing
+Matching verses and paintings to each other (and casque locations) is more of an art than a science.
+
+Painting 3 is matched to Dare County/Roanoke Island NC via:
+* Roanoke Island depicted in image (see Image Matches)
+
+Verse 11 is matched to painting 3 via:
+* "Land by the window" is commonly thought to be a reference to Roanoke island outline in the painting next to the window
+* "Ride the man of oz" is commonly thought to be a reference to the Wizard Of Oz (and Baum bridge), and the image depicts a scarecrow
+
+Verse 11 is matched to Dare County/Roanoke Island NC via:
+* The verse lines "Pass two friends of octave", "Dark Forest" , "Look north at the wing", "By dauntless and inconquerable" are thought to reference the Wright Brothers memorial and the Virgina Dare/Fort Raleigh.
 
 # Japanese Hint
 >Line 1: octave. Octave usually relates to the number 8, and it’s used in music. However Mr.
